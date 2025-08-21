@@ -9,4 +9,4 @@
 
 - [General information](https://github.com/EduEdugrade/StudentGeneral)
 - [Java25](https://github.com/EduEdugrade/Java25)
-- [.Net25](https://github.com/EduEdugrade/.Net25)
+- [.NET25](https://github.com/EduEdugrade/.NET25)
